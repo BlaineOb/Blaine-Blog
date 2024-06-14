@@ -10,6 +10,19 @@
   a:hover{
       color: darkgray;
   }
+
+	p {
+			font-style: italic;
+	}
+
+	div {
+			padding-bottom: 20px;
+			height: 80%;
+	}
 </style>
 
-<a href="/post-1">Practice And Performance Are Opposites</a>
+<div>
+	<a href="/post-1">Practice and Performance are Opposites</a>
+	<p>6/14/2024</p>
+</div>
+

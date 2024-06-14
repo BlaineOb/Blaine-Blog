@@ -12,17 +12,25 @@
 			text-decoration: none;
 			color: white;
 			font-size: 1.25rem;
-			padding-left: 10px;
 	}
 
 	a:hover{
       color: darkgray;
   }
+
+	div {
+      margin-left: 20%;
+	}
+
+	.title {
+      margin-top: 20px;
+      font-size: 2.5rem;
+	}
 </style>
 
-<h1>
-	Blaine's Blog <a href="/">Home</a> <a href="/links">Links</a>
-</h1>
-
-
-<slot />
+<div>
+	<h1>
+		<a class="title" href="/">Blaine's Blog</a> <a href="/links">Links</a>
+	</h1>
+	<slot />
+</div>
