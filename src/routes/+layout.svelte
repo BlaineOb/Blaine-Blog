@@ -12,6 +12,7 @@
 <style>
 	h1 {
 		margin-top: 20px;
+		margin-left: var(--default-margin);
 		font-size: 2.5rem;
 	}
 
@@ -23,10 +24,6 @@
 
 	a:hover {
 		color: darkgray;
-	}
-
-	div {
-		margin-left: 20%;
 	}
 
 	.title {

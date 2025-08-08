@@ -82,6 +82,10 @@ h6 {
 	isolation: isolate;
 }
 
+:root {
+	--default-margin: 10%;
+}
+
 a {
 	color: hsl(208, 77%, 47%);
 }
