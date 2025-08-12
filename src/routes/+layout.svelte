@@ -4,7 +4,7 @@
 
 <div>
 	<h1>
-		<a class="title" href="/">Blaine's Blog</a> <a href="/links">Links</a>
+		<a class="title" href="/">Blaine's Blog</a> <a href="/about">About</a>
 	</h1>
 	<slot />
 </div>
