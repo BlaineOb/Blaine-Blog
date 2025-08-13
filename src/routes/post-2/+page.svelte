@@ -24,7 +24,7 @@
 			Oh, Just 2.4 <b>Megabytes</b>. Out of a chonky 4 MB payload. Assuming they could rebuild the
 			site to hit Alex Russell's target of
 			<a href="https://infrequently.org/2021/03/the-performance-inequality-gap">450 KB</a>, that's
-			conservatively $435,000,000 per year.
+			conservatively $195,000,000 per year.
 			<a href="https://www.youtube.com/watch?v=UKpMhn07cxA&ab_channel=PetarPetrovic">Not too bad</a
 			>. And this is likely a <em>profound underestimation</em> of the real gain. As Taylor mentions
 			in a
