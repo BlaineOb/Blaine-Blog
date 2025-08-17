@@ -10,8 +10,14 @@
 		margin-top: 20px;
 		display: inline-block;
 		color: #1db954;
-		font-size: 1.5rem;
+		font-size: 2rem;
 		text-decoration: none;
+	}
+
+	@media (max-width: 1100px) {
+		a {
+			font-size: 1.5rem;
+		}
 	}
 
 	a:hover {

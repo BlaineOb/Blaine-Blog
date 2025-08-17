@@ -102,17 +102,13 @@
 <style>
 	p {
 		margin: 1rem 0;
-		line-height: 1.75rem;
+		line-height: 2.25rem;
 	}
 
 	article {
 		padding-bottom: 50px;
-		max-width: 1200px;
+		max-width: 1100px;
 		width: fit-content;
-	}
-	#article-container {
-		display: flex;
-		justify-content: center;
 	}
 
 	a {
@@ -130,7 +126,7 @@
 		width: fit-content;
 		margin-left: auto;
 		margin-right: auto;
-		font-size: 2rem;
+		font-size: var(--h1-font-size);
 	}
 
 	.footnote {
