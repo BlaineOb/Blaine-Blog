@@ -1,4 +1,6 @@
 <div>
+	<a href="/I-dont-want-to-code-with-LLMs">I Don't Want to Code With LLM's</a>
+	<p>9/21/2025</p>
 	<a href="/post-2">Why is Web Performance Undervalued?</a>
 	<p>8/7/2025</p>
 	<a href="/post-1">Practice and Performance are Opposites</a>
