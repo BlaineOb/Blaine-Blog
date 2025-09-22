@@ -50,7 +50,7 @@
 			LLM's in my workflow, it'd be here. Getting a link to that thing that's on the tip of your
 			tongue but you totally forgot the name of is awesome. I'd only caveat this by saying again,
 			this is pretty minor. Most of the things I look up are the documentation of technologies I
-			work with frequently, or idiomatic solutions to common problems. For the these cases LLM's are
+			work with frequently, or idiomatic solutions to common problems. For these cases LLM's are
 			functionally identical to Google, as I only want a link to an answer or an article that a real
 			person actually wrote. LLM's are wrong too frequently for me to trust <i>their</i> answer, but
 			if they can point me to a helpful link then great. The problem is that Google is already good
@@ -121,7 +121,7 @@
 			<a href="https://pages.cs.wisc.edu/~remzi/Naur.pdf">theory-building</a>, and it is the
 			<i>most critical part</i> of what I do.
 		</p>
-		<h2>Use It or Lost It</h2>
+		<h2>Use it or lose it</h2>
 		<p>
 			Let's say LLM's make me slightly more productive and I'm still able to build a solid
 			understanding of the system just by reviewing their code. I still don't want to use them. Some
